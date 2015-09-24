@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ILove</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="tvAnsow">----Yes i do !</string>   
+    <string name="tvSure">Would you like to go with me to happy?</string>
+
+</resources>
